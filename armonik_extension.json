@@ -1,0 +1,7 @@
+
+{
+	"name": "Sample Extension",
+	"version": "0.0.0",
+	"description": "ArmoniK Sample Extension",
+	"package_name": "armonikcli_sample_extension"
+}
